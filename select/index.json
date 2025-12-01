@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Believer (Live/Acoustic)",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T04:04:09.666652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stone Cold Believer (Live)",
+      "artist": "38 Special",
+      "has_synced": false,
+      "path": "select/01_Stone_Cold_Believer_(Live)_38_Special.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Believer - Live 1981",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/02_Believer_-_Live_1981_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Believer (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/03_Believer_(Live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Believer - Live/Acoustic",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/04_Believer_-_Live_Acoustic_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believer (Live in Vegas)",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/05_Believer_(Live_in_Vegas)_Imagine_Dragons.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Believer - Live from Blizzard Of Ozz tour",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/06_Believer_-_Live_from_Blizzard_Of_Ozz_tour_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm a Believer (Live)",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/07_I'm_a_Believer_(Live)_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Believer (Live/Acoustic)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/08_Believer_(Live_Acoustic)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Believer(Live from Blizzard Of Ozz Tour)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/09_Believer(Live_from_Blizzard_Of_Ozz_Tour)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Believer(Live from Blizzard Of Ozz Tour) (FLAC)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/10_Believer(Live_from_Blizzard_Of_Ozz_Tour)_(FLAC)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make Me a Believer - Live",
+      "artist": "Kirk Whalum feat. Lalah Hathaway & Kevin Whalum",
+      "has_synced": true,
+      "path": "select/11_Make_Me_a_Believer_-_Live_Kirk_Whalum_feat._Lalah_Hathaway_&_Kevin_Whalum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Believer (Live in Vegas)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/12_Believer_(Live_in_Vegas)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Believer (Live / Acoustic)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/13_Believer_(Live___Acoustic)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Believer (Live at Budokan Hall, Tokyo, Japan - February 2002)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/14_Believer_(Live_at_Budokan_Hall,_Tokyo,_Japan_-_February_2002)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Believer (live from Blizzard of Ozz tour)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/15_Believer_(live_from_Blizzard_of_Ozz_tour)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm a Believer (Live)",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/16_I'm_a_Believer_(Live)_The_Monkees.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm a Believer (Live at Memorial Coliseum Portland, OR, 8/26/1967)",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/17_I'm_a_Believer_(Live_at_Memorial_Coliseum_Portland,_OR,_8_26_1967)_The_Monkees.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm a Believer (Live at Municipal Auditorium, Mobile, AL, 8/12/1967)",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/18_I'm_a_Believer_(Live_at_Municipal_Auditorium,_Mobile,_AL,_8_12_1967)_The_Monkees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believer - Live/Acoustic",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Believer_-_Live_Acoustic_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Believer (Live from Blizzard of Ozz Tour)",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_02_Believer_(Live_from_Blizzard_of_Ozz_Tour)_Imagine_Dragons.txt"
+    }
+  ]
+}
